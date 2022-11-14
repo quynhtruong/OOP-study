@@ -1,3 +1,5 @@
+package Lesson1;
+
 public class Sum{
     public void calculateSum(){
         int sum=0;
