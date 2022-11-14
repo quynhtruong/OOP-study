@@ -1,4 +1,3 @@
-# OOP-study
-# Đây là lớp học OOP, tuần thứ nhất.
-# Chào mừng Đỗ Thị Trang đến với lớp học.
-# giang vien la truong quy quynh.
+# Notes cho lesson 1
+
+1. Class name must be the same with java file. (eg: HelloWorld.java --> class HelloWorld)
