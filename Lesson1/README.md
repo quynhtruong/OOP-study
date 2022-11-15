@@ -3,16 +3,16 @@
 ## 1. Notes about Java
 ###- Class name must be same with Java file (eg: HelloWorld.java --> class HelloWorld).
 
-###- To compile:**
+###- To compile:
 ```
     javac HelloWorld.java 
 ```
 
-###- To run:**
+###- To run:
 ```
     java HelloWorld 
 ```
-###- class must have main() method to run:**
+###- class must have main() method to run:
 ```java
 class DogTestDrive {
     public static void main(String[] args) {
