@@ -1,6 +1,7 @@
 # Notes for lesson 2
 
 ##1. Các thuật ngữ cho class và object trong java:
+
 ###- Tạo object = instantiate an object = create an object.
 
 ###- Khi object được tạo từ 1 class, object đó gọi là "instance of class".
